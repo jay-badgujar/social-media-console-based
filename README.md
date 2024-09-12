@@ -1,5 +1,5 @@
 Options for app
-
+```
 ---------------------------
 |   Press 1 For Login     |
 |   Press 2 For SignUp    |
@@ -17,3 +17,4 @@ Options for app
 |   Press 7 Delete My Post               |
 |   Press 8 Exit                         |
 ------------------------------------------
+```
